@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/android-codegenerator-library-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

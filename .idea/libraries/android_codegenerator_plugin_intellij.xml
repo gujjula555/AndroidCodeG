@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-codegenerator-plugin-intellij">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android-codegenerator-plugin-intellij.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
